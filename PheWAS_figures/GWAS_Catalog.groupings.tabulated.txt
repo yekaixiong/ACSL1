@@ -1,0 +1,5 @@
+group	value
+Diabetes/Glucose	14
+Menopause	3
+Blood-cell traits	3
+Others	2

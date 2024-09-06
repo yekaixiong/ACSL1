@@ -1,0 +1,9 @@
+group	value
+Diabetes/Glucose	19
+Menopause	5
+Blood-cell traits	21
+Others	10
+Hypertension	4
+Kawasaki disease	3
+Phospholipids	2
+Cancer	1
