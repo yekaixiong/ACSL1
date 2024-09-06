@@ -1,0 +1,294 @@
+rsID	hg19	Pvalue	Tissue
+rs55752827	186525536	0.000056	Cells - Cultured fibroblasts
+rs3749233	185687233	0.0000035	Brain - Cerebellar Hemisphere
+rs12503643	185746088	3.8e-14	Testis
+rs28526229	185749127	1.5e-30	Testis
+rs72706998	185908505	0.0000038	Skin - Sun Exposed (Lower leg)
+rs12642119	185749396	1.1e-13	Testis
+rs10534672	185910266	4.1e-7	Skin - Sun Exposed (Lower leg)
+rs183200561	185386671	4.2e-9	Spleen
+rs11721761	185911654	0.0000064	Skin - Sun Exposed (Lower leg)
+rs35778185	185910823	0.0000038	Skin - Sun Exposed (Lower leg)
+rs10002396	184766287	8.2e-8	Cells - Cultured fibroblasts
+rs6830101	185752236	1.2e-9	Testis
+rs4862478	185907997	0.0000038	Skin - Sun Exposed (Lower leg)
+rs28594349	185574415	0.000054	Skin - Sun Exposed (Lower leg)
+rs55713639	185747931	8.6e-26	Testis
+rs55932309	185909481	0.0000072	Skin - Sun Exposed (Lower leg)
+rs6858762	185743738	1.6e-15	Testis
+rs13112568	185730299	0.000037	Whole Blood
+rs13139032	185767470	2.9e-13	Testis
+rs7677161	185779168	0.000018	Testis
+rs62338220	185735678	0.0000020	Testis
+rs77774712	185909957	8.9e-7	Skin - Sun Exposed (Lower leg)
+rs11944677	185909225	4.1e-7	Skin - Sun Exposed (Lower leg)
+rs4862472	185903296	0.000014	Skin - Sun Exposed (Lower leg)
+rs72706929	185916464	0.0000060	Skin - Sun Exposed (Lower leg)
+rs62338221	185736453	2.1e-9	Testis
+rs36080963	185755083	7.6e-21	Testis
+rs28709399	185749128	1.5e-30	Testis
+rs112231838	185746827	2.3e-7	Brain - Cerebellum
+rs2014964	185588836	0.000068	Skin - Sun Exposed (Lower leg)
+rs56174235	185749139	0.0000017	Brain - Cerebellum
+rs11934776	185750318	1.1e-12	Testis
+rs7661585	185706151	0.000011	Brain - Cerebellar Hemisphere
+rs13120078	185731442	0.000016	Whole Blood
+rs28594722	185910751	4.1e-7	Skin - Sun Exposed (Lower leg)
+rs72706919	185910353	0.0000038	Skin - Sun Exposed (Lower leg)
+rs72709506	185910223	0.0000038	Skin - Sun Exposed (Lower leg)
+rs188087822	185383596	4.2e-9	Spleen
+rs56198616	185915391	0.0000099	Skin - Sun Exposed (Lower leg)
+rs35101183	185910547	0.0000083	Skin - Sun Exposed (Lower leg)
+rs28493808	185873455	0.0000014	Cells - Cultured fibroblasts
+rs76581232	185906132	2.3e-7	Skin - Sun Exposed (Lower leg)
+rs13127359	185756523	7.6e-21	Testis
+rs73876125	186525236	0.000056	Cells - Cultured fibroblasts
+rs11727009	185687863	0.0000041	Brain - Cerebellar Hemisphere
+rs10002300	185750086	0.000027	Cells - Cultured fibroblasts
+rs10571387	185699174	0.0000017	Brain - Cerebellar Hemisphere
+rs6830111	185752249	0.0000019	Cells - Cultured fibroblasts
+rs9884897	184768438	8.2e-8	Cells - Cultured fibroblasts
+rs140018958	185084883	0.000031	Skin - Not Sun Exposed (Suprapubic)
+rs74754234	185865482	5.9e-9	Cells - Cultured fibroblasts
+rs34265628	185766446	0.0000052	Testis
+rs62338219	185734163	6.6e-7	Testis
+rs150616160	185601991	0.000062	Skin - Sun Exposed (Lower leg)
+rs4861648	185904822	0.000010	Skin - Sun Exposed (Lower leg)
+rs11938887	185674286	0.0000051	Brain - Cerebellar Hemisphere
+rs35943601	185770709	3.2e-12	Testis
+rs7670801	185917354	0.000030	Skin - Sun Exposed (Lower leg)
+rs6857505	185748961	1.5e-30	Testis
+rs74404172	185878501	0.00011	Cells - Cultured fibroblasts
+rs72689255	185590141	0.000089	Skin - Sun Exposed (Lower leg)
+rs35021814	185910400	0.0000038	Skin - Sun Exposed (Lower leg)
+rs35623456	185910638	0.0000038	Skin - Sun Exposed (Lower leg)
+rs7679890	185682694	0.0000019	Brain - Cerebellar Hemisphere
+rs28702958	185575562	0.000054	Skin - Sun Exposed (Lower leg)
+rs10866273	185905754	0.000034	Skin - Sun Exposed (Lower leg)
+rs3792315	185686652	0.0000034	Brain - Cerebellar Hemisphere
+rs62338226	185751719	3.3e-11	Testis
+rs62339751	184951268	0.0000061	Skin - Sun Exposed (Lower leg)
+rs142803222	185910983	0.0000038	Skin - Sun Exposed (Lower leg)
+rs6829874	185918782	0.000016	Skin - Sun Exposed (Lower leg)
+rs57551016	186525535	0.000056	Cells - Cultured fibroblasts
+rs10005356	185750922	3.3e-11	Testis
+rs192356810	185668609	0.000022	Testis
+rs12506750	185571123	0.00012	Skin - Sun Exposed (Lower leg)
+rs13127985	185717722	0.000014	Whole Blood
+rs6830318	185752316	1.2e-9	Testis
+rs58825159	185672945	0.0000011	Brain - Cerebellar Hemisphere
+rs28594221	185915809	0.0000025	Skin - Sun Exposed (Lower leg)
+rs72689245	185579788	0.000083	Skin - Sun Exposed (Lower leg)
+rs11725709	185902883	0.000011	Skin - Sun Exposed (Lower leg)
+rs56263203	185901447	0.000011	Skin - Sun Exposed (Lower leg)
+rs147169415	185747397	0.000027	Cells - Cultured fibroblasts
+rs28417728	185802351	2.0e-8	Cells - Cultured fibroblasts
+rs67824824	185746257	1.6e-10	Testis
+rs35263420	185910363	0.0000038	Skin - Sun Exposed (Lower leg)
+rs6829776	185752235	1.2e-9	Testis
+rs28568842	186028822	0.000067	Cells - Cultured fibroblasts
+rs76624624	185909904	4.1e-7	Skin - Sun Exposed (Lower leg)
+rs13144862	185777015	0.000018	Testis
+rs3840201	185695945	0.0000016	Brain - Cerebellar Hemisphere
+rs9997745	185737843	1.7e-17	Testis
+rs62338202	185702170	0.0000027	Brain - Cerebellar Hemisphere
+rs6828525	185751770	3.3e-11	Testis
+rs9994991	184769118	8.0e-8	Cells - Cultured fibroblasts
+rs113124878	185916684	0.000093	Skin - Sun Exposed (Lower leg)
+rs78971754	185922934	0.0000052	Skin - Sun Exposed (Lower leg)
+rs72706999	185908544	0.0000038	Skin - Sun Exposed (Lower leg)
+rs28579779	185749492	1.1e-13	Testis
+rs28472947	185750602	3.3e-11	Testis
+rs4861650	185904839	0.000010	Skin - Sun Exposed (Lower leg)
+rs13103606	185759005	7.6e-21	Testis
+rs6857027	185748717	1.5e-30	Testis
+rs12513128	185576729	0.000086	Skin - Sun Exposed (Lower leg)
+rs72709509	185910278	0.0000038	Skin - Sun Exposed (Lower leg)
+rs34237618	185763310	2.4e-24	Testis
+rs56302210	185747362	5.2e-32	Testis
+rs28591245	185802692	0.0000021	Cells - Cultured fibroblasts
+rs72706997	185908474	0.0000038	Skin - Sun Exposed (Lower leg)
+rs6821493	185907464	0.000010	Skin - Sun Exposed (Lower leg)
+rs870825	185588045	0.000056	Skin - Sun Exposed (Lower leg)
+rs11944716	185909281	0.0000061	Skin - Sun Exposed (Lower leg)
+rs59674005	185766498	7.4e-12	Testis
+rs4307001	185918738	0.000029	Skin - Sun Exposed (Lower leg)
+rs13152116	185777866	0.0000084	Testis
+rs139909579	185749596	3.3e-24	Testis
+rs6827693	185755328	1.5e-13	Testis
+rs145931056	185772232	9.4e-11	Testis
+rs4862488	185921298	2.5e-7	Skin - Sun Exposed (Lower leg)
+rs57441510	185912224	0.0000038	Skin - Sun Exposed (Lower leg)
+rs10027540	185750840	3.3e-11	Testis
+rs6853210	185743348	1.6e-15	Testis
+rs13136635	185574807	0.00011	Skin - Sun Exposed (Lower leg)
+rs12512699	185765102	0.0000060	Testis
+rs56226652	185748702	4.2e-8	Brain - Cerebellum
+rs72709507	185910254	0.0000038	Skin - Sun Exposed (Lower leg)
+rs28582376	185749144	1.1e-13	Testis
+rs55844975	185740064	1.1e-12	Testis
+rs13147962	185910839	0.0000038	Skin - Sun Exposed (Lower leg)
+rs56202910	185754190	1.7e-15	Testis
+rs13144344	185776616	0.000018	Testis
+rs4862485	185912840	0.0000038	Skin - Sun Exposed (Lower leg)
+rs13148500	185910818	0.000010	Skin - Sun Exposed (Lower leg)
+rs13142179	185781717	0.000039	Testis
+rs60407693	185571645	0.000036	Skin - Sun Exposed (Lower leg)
+rs140534649	184765066	1.6e-7	Cells - Cultured fibroblasts
+rs11729913	185911727	0.000026	Skin - Sun Exposed (Lower leg)
+rs62338195	185685357	0.0000052	Testis
+rs34680402	185764989	0.0000030	Testis
+rs73875825	185736689	1.6e-7	Cells - Cultured fibroblasts
+rs12642074	185749395	1.1e-13	Testis
+rs115538984	185910207	0.0000038	Skin - Sun Exposed (Lower leg)
+rs73018248	186499729	0.000014	Muscle - Skeletal
+rs72706931	185917796	0.0000091	Skin - Sun Exposed (Lower leg)
+rs183702485	185911243	0.0000038	Skin - Sun Exposed (Lower leg)
+rs189107592	185918861	2.9e-7	Skin - Sun Exposed (Lower leg)
+rs2696059	185575127	0.00011	Skin - Sun Exposed (Lower leg)
+rs187078742	185911226	6.2e-7	Skin - Sun Exposed (Lower leg)
+rs34653881	185765994	6.5e-14	Testis
+rs1405940	185591481	0.00011	Skin - Sun Exposed (Lower leg)
+rs62338230	185758109	1.7e-15	Testis
+rs35340636	185731583	0.000018	Whole Blood
+rs28654441	185749384	9.3e-7	Cells - Cultured fibroblasts
+rs10002197	185749878	1.1e-13	Testis
+rs9686055	185748194	5.9e-7	Brain - Cerebellum
+rs55977175	185909949	0.0000038	Skin - Sun Exposed (Lower leg)
+rs7670567	185917184	0.000043	Skin - Sun Exposed (Lower leg)
+rs6830347	185752354	1.2e-9	Testis
+rs79235784	185702172	0.0000027	Brain - Cerebellar Hemisphere
+rs28653438	185749502	1.1e-13	Testis
+rs793794	185363037	0.000013	Colon - Sigmoid
+rs4861649	185904836	0.000010	Skin - Sun Exposed (Lower leg)
+rs10021219	185755976	1.6e-10	Testis
+rs55880126	185591237	0.00011	Skin - Sun Exposed (Lower leg)
+rs61539274	186525403	0.000056	Cells - Cultured fibroblasts
+rs13111404	185767375	3.8e-13	Testis
+rs34241720	185910316	0.0000038	Skin - Sun Exposed (Lower leg)
+rs34829317	185763817	3.2e-7	Testis
+rs6833829	185748701	1.5e-30	Testis
+rs34438587	185778744	0.000018	Testis
+rs56006477	185915113	0.000013	Skin - Sun Exposed (Lower leg)
+rs114570876	185779348	0.0000013	Cells - Cultured fibroblasts
+rs7694916	185917159	0.000014	Skin - Sun Exposed (Lower leg)
+rs6855554	185914318	0.0000060	Skin - Sun Exposed (Lower leg)
+rs62338246	185765364	7.5e-14	Testis
+rs34008878	185780254	0.000022	Testis
+rs34626232	185910636	0.0000038	Skin - Sun Exposed (Lower leg)
+rs7657313	185732088	0.000052	Cells - Cultured fibroblasts
+rs2102862	185705006	0.0000027	Brain - Cerebellar Hemisphere
+rs6856693	185748806	1.1e-13	Testis
+rs60711572	184937493	0.0000061	Spleen
+rs10033450	184765291	8.2e-8	Cells - Cultured fibroblasts
+rs144091022	185916528	1.9e-7	Skin - Sun Exposed (Lower leg)
+rs111561412	185901023	0.00010	Skin - Sun Exposed (Lower leg)
+rs80038967	185909247	2.3e-7	Skin - Sun Exposed (Lower leg)
+rs6851279	185901195	0.0000022	Skin - Sun Exposed (Lower leg)
+rs150229929	185745440	2.4e-15	Testis
+rs56174629	185909667	0.0000061	Skin - Sun Exposed (Lower leg)
+rs34391965	185766376	3.7e-11	Testis
+rs56091862	185915579	0.000018	Skin - Sun Exposed (Lower leg)
+rs11457984	185748287	1.1e-13	Testis
+rs112825887	185601511	0.000062	Skin - Sun Exposed (Lower leg)
+rs72709504	185910154	0.0000049	Skin - Sun Exposed (Lower leg)
+rs34309875	185748286	1.1e-13	Testis
+rs10002006	185749868	1.1e-13	Testis
+rs56952908	185914747	0.000016	Skin - Sun Exposed (Lower leg)
+rs11721814	185902795	0.000014	Skin - Sun Exposed (Lower leg)
+rs4418020	185902671	0.000014	Skin - Sun Exposed (Lower leg)
+rs55935012	185909881	0.0000038	Skin - Sun Exposed (Lower leg)
+rs6843954	185907334	0.0000038	Skin - Sun Exposed (Lower leg)
+rs4343758	185912549	0.0000038	Skin - Sun Exposed (Lower leg)
+rs13435461	185801747	0.0000061	Cells - Cultured fibroblasts
+rs4996093	185907910	0.0000038	Skin - Sun Exposed (Lower leg)
+rs6856034	185776649	0.000040	Testis
+rs2139178	185745029	1.6e-15	Testis
+rs13144544	185776679	0.000018	Testis
+rs35313914	185750742	3.9e-24	Testis
+rs10002013	185749877	2.9e-14	Testis
+rs35386227	185910397	0.0000038	Skin - Sun Exposed (Lower leg)
+rs4395545	185912428	0.000010	Skin - Sun Exposed (Lower leg)
+rs28478646	185776205	0.000018	Testis
+rs73876124	186525023	0.000056	Cells - Cultured fibroblasts
+rs4862510	186041537	0.0000074	Pancreas
+rs6818492	185759092	1.5e-13	Testis
+rs61541120	186525436	0.000056	Cells - Cultured fibroblasts
+rs191476784	185911238	0.0000038	Skin - Sun Exposed (Lower leg)
+rs4862484	185912827	0.0000038	Skin - Sun Exposed (Lower leg)
+rs58635817	185901879	0.000014	Skin - Sun Exposed (Lower leg)
+rs12507711	185571776	0.000039	Skin - Sun Exposed (Lower leg)
+rs7658926	185757209	0.0000019	Cells - Cultured fibroblasts
+rs1554336	185744820	3.2e-7	Brain - Cerebellum
+rs77751130	185901437	0.0000028	Skin - Sun Exposed (Lower leg)
+rs4862477	185907903	0.0000038	Skin - Sun Exposed (Lower leg)
+rs72709508	185910272	0.0000038	Skin - Sun Exposed (Lower leg)
+rs11934173	185674313	0.000012	Brain - Cerebellar Hemisphere
+rs6854951	185913951	0.0000060	Skin - Sun Exposed (Lower leg)
+rs28488461	185759739	2.6e-13	Testis
+rs4862473	185903346	0.000014	Skin - Sun Exposed (Lower leg)
+rs34088268	185910629	0.0000038	Skin - Sun Exposed (Lower leg)
+rs34146719	185910572	0.0000083	Skin - Sun Exposed (Lower leg)
+rs6828892	185751827	3.3e-11	Testis
+rs76303798	185909700	2.3e-7	Skin - Sun Exposed (Lower leg)
+rs870823	185588195	0.000050	Skin - Sun Exposed (Lower leg)
+rs34030510	185769048	0.0000014	Testis
+rs6851668	185901230	0.0000035	Skin - Sun Exposed (Lower leg)
+rs3923958	185902531	0.000014	Skin - Sun Exposed (Lower leg)
+rs12504478	185746565	2.3e-7	Brain - Cerebellum
+rs4356945	185904061	0.000013	Skin - Sun Exposed (Lower leg)
+rs116335403	185910208	0.0000038	Skin - Sun Exposed (Lower leg)
+rs7670736	185917160	0.000043	Skin - Sun Exposed (Lower leg)
+rs34435656	185759601	2.4e-21	Testis
+rs35438863	185910433	0.0000038	Skin - Sun Exposed (Lower leg)
+rs9990562	186041834	0.000041	Pancreas
+rs140702092	185749636	8.6e-26	Testis
+rs871253	185589234	0.00012	Skin - Sun Exposed (Lower leg)
+rs4862483	185910512	4.1e-7	Skin - Sun Exposed (Lower leg)
+rs6848525	185913188	0.0000038	Skin - Sun Exposed (Lower leg)
+rs12645247	185749420	1.1e-13	Testis
+rs13111368	185767306	3.8e-13	Testis
+rs36073531	185769073	3.8e-13	Testis
+rs11430387	185736643	9.3e-10	Testis
+rs4862479	185908085	0.000010	Skin - Sun Exposed (Lower leg)
+rs62338232	185760185	1.7e-15	Testis
+rs10034861	185577450	0.000076	Skin - Sun Exposed (Lower leg)
+rs12374289	185687687	0.0000011	Brain - Cerebellar Hemisphere
+rs11940804	185745640	1.6e-15	Testis
+rs4862476	185907878	0.0000057	Skin - Sun Exposed (Lower leg)
+rs35853557	185910458	0.0000038	Skin - Sun Exposed (Lower leg)
+rs55988439	185748697	4.2e-8	Brain - Cerebellum
+rs35221862	185910689	0.0000038	Skin - Sun Exposed (Lower leg)
+rs4862480	185908110	0.000010	Skin - Sun Exposed (Lower leg)
+rs56408923	185748644	4.2e-8	Brain - Cerebellum
+rs4440268	185912550	0.0000038	Skin - Sun Exposed (Lower leg)
+rs72703518	185602109	0.000062	Skin - Sun Exposed (Lower leg)
+rs35681997	185752869	7.6e-10	Testis
+rs34528225	185584967	0.00011	Skin - Sun Exposed (Lower leg)
+rs72705299	185746495	0.0000014	Testis
+rs9994496	185912606	4.1e-7	Skin - Sun Exposed (Lower leg)
+rs552478163	185593043	0.000099	Skin - Sun Exposed (Lower leg)
+rs7683525	185706153	0.000020	Brain - Cerebellar Hemisphere
+rs13144160	185713349	0.0000068	Whole Blood
+rs74335426	185747653	5.3e-8	Brain - Cerebellum
+rs34552491	185769261	3.8e-13	Testis
+rs72706927	185915941	0.0000096	Skin - Sun Exposed (Lower leg)
+rs10034370	185906116	4.1e-7	Skin - Sun Exposed (Lower leg)
+rs57810830	185909680	0.0000061	Skin - Sun Exposed (Lower leg)
+rs6829342	185752058	3.3e-11	Testis
+rs72706993	185906827	0.000010	Skin - Sun Exposed (Lower leg)
+rs72689278	185593718	0.000080	Skin - Sun Exposed (Lower leg)
+rs72705293	185737207	3.5e-7	Testis
+rs4356944	185903987	0.000011	Skin - Sun Exposed (Lower leg)
+rs1873227	185704700	0.0000027	Brain - Cerebellar Hemisphere
+rs112209698	185601499	0.000062	Skin - Sun Exposed (Lower leg)
+rs78083838	185915216	1.9e-7	Skin - Sun Exposed (Lower leg)
+rs56078820	185910109	0.000010	Skin - Sun Exposed (Lower leg)
+rs66739414	185766250	2.9e-10	Testis
+rs35594363	185771114	1.7e-12	Testis
+rs28421941	185576256	0.000054	Skin - Sun Exposed (Lower leg)
+rs4862475	185907875	0.000010	Skin - Sun Exposed (Lower leg)
+rs13105565	185723711	0.000012	Whole Blood
+rs62338229	185756720	2.4e-20	Testis
+rs4996092	185908251	0.0000038	Skin - Sun Exposed (Lower leg)
+rs11946139	185274499	0.0000090	Artery - Tibial
